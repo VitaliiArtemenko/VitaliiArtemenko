@@ -7,3 +7,6 @@ I'm a Software QA Engineer with hands-on experience in manual and automation tes
 - 📫 How to reach me: VitaliiArtemenkoQA@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have the smartest decisions at night
+
+<img src="https://github-readme-stats.vercel.app/api?username=VitaliiArtemenko&show_icons=true&theme=cobalt"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitaliiArtemenko">
